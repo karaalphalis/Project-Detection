@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['civilian', 'fpv', 'soldier', 'soldier_ru', 'soldier_ua']
+
+roboflow:
+  workspace: mariana-docgy
+  project: test-2-eejvt
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mariana-docgy/test-2-eejvt/dataset/8

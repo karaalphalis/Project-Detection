@@ -1,0 +1,7 @@
+train: /content/gdrive/MyDrive/YOLOV8_Proje/Test/Project Detection/data/datasets/train/images
+val: /content/gdrive/MyDrive/YOLOV8_Proje/Test/Project Detection/data/datasets/valid/images
+test: /content/gdrive/MyDrive/YOLOV8_Proje/Test/Project Detection/data/datasets/test/images
+
+nc: 2
+names: ['tank', 'asker']
+
